@@ -5,4 +5,4 @@
   ## 2개
   ### 3개
   #### 4개
-- server : origin-push, local : master-commit
+- server : origin(push), local : master(commit)
